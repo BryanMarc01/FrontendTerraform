@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/passport-jwt": "^4.0.1",
+    "@types/passport-local": "^1.0.38"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.592.0",
+    "@nestjs/common": "^10.3.9",
+    "@nestjs/config": "^3.2.2",
+    "@nestjs/core": "^10.3.9",
+    "@nestjs/jwt": "^10.2.0",
+    "@nestjs/microservices": "^10.3.9",
+    "@nestjs/mongoose": "^10.0.6",
+    "@nestjs/passport": "^10.0.3",
+    "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
+    "kafkajs": "^2.2.4",
+    "mongoose": "^8.4.1",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0",
+    "react-router-dom": "^6.23.1"
+  }
+}
